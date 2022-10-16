@@ -13,21 +13,3 @@ Designed and Developed by [**ime**](http://discordapp.com/users/5840221544046919
 
 ---
 #### *Still in work in progress...*
-
-<style>
-    a{
-        color:white
-    }
-    a:hover{
-        color:rgb(242, 93, 88);
-        text-decoration: bold;
-        font-weight: 200em;
-        text-decoration:none;
-    }
-    .title{
-        text-decoration:none;
-    }
-    .title:hover{
-        text-decoration:none;
-    }
-</style>
