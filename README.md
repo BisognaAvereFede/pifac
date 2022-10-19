@@ -1,4 +1,4 @@
-## <span class="title" style="font-size: 40px;"> [**PIFAC**](https://pifac.tk)</span>
+### <span class="title" style="font-size: 40px;"> [**PIFAC**](https://pifac.tk)</span>
 
 Sito Web dedicato al sacro Partito Italiano Federazione Anti-Catania.
 
